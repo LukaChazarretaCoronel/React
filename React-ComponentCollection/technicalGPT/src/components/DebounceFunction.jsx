@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import useDebounce from "./useDebounce.js"; 
-//Implement a useDebounce hook in React. This hook should delay updating a value until after a certain period of inactivity. 
-//Use it to debounce a search input that fetches data from an API only when the user has stopped typing for at least 500ms.
+
 const searchGitHubRepos = async (query) => {
   const response = await fetch(`https://api.github.com/search/repositories?q=${query}`);
   const data = await response.json();

@@ -1,5 +1,3 @@
-//Create a TodoList component that allows users to add, delete, and toggle tasks as
-// complete/incomplete. Use the useReducer hook to manage the list of tasks and their state.
 import React,{useState, useEffect, useReducer} from "react"
 
 const initialState = []

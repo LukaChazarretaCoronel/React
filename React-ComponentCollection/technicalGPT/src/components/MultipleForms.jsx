@@ -1,5 +1,3 @@
-//Write a simple form in React with two input fields: one for a username and one for an email. 
-//When the form is submitted, display the entered values below the form.
 import {useState} from "react"
 
 export function MultipleForms(){

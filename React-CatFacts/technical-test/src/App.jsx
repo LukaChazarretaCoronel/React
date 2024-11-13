@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 
 
-//const CAT_ENDPOINT_IMAGE_URL = `https://cataas.com/cat/says/${firstWord}?fontSize=50&fontColor=red?`
+        // Fetch a random cat fact
 const CAT_ENDPOINT_RANDOM_FACT = 'https://catfact.ninja/fact'
 const CAT_PREFIX_IMAGE_URL = 'https://cataas.com'
 function App() {
@@ -30,7 +30,7 @@ function App() {
   }, [])
   return (
     <main>
-      <h1>App de gatitos</h1>
+      <h1>Cat Facts App</h1>
       {fact && <p>{fact}</p>}
       {imageUrl && (
         <img src={`${CAT_PREFIX_IMAGE_URL}${imageUrl}`} alt={`Image extracted using the first three words for ${fact}`} />
