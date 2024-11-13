@@ -1,4 +1,4 @@
-# ReactGPT2 🚀
+# React-AdvancedPatterns 🚀
 
 Este repositorio contiene componentes avanzados de React, diseñados para profundizar en patrones de desarrollo y optimización de rendimiento en aplicaciones complejas.
 
