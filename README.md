@@ -34,3 +34,10 @@ Este repositorio incluye ejemplos prácticos y componentes avanzados en React, d
 **Características**:
 - Gestión de turnos y lógica del juego
 - Reinicio de juego con un solo clic
+
+5. **React-FlashcardQuiz**
+   - Descripción: App interactiva de tarjetas de estudio (flashcards) con retroalimentación visual.
+   - Características:
+     - Resaltado dinámico de respuestas correctas e incorrectas
+     - Barra de progreso animada
+     - Estadísticas de rendimiento y precisión
