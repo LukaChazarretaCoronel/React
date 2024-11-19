@@ -11,4 +11,4 @@ FlashcardQuiz es una aplicación educativa desarrollada en React. Permite a los 
 ## Tecnologías utilizadas
 - **React**: Biblioteca principal para el desarrollo de la interfaz.
 - **Tailwind CSS**: Framework para estilos rápidos y consistentes.
-- **Componentización**: Uso de patrones avanzados para separar lógica y presentación.
+- **Componentización**: Uso de patrones avanzados para separar lógica y presentación. 
