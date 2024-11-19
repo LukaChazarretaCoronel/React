@@ -1,4 +1,4 @@
-# ReactGPT 🚀
+# React-ComponentCollection 🚀
 
 Este repositorio contiene una serie de componentes de React que cubren conceptos avanzados de React como hooks personalizados, debounce, uso de `useReducer` y mucho más.
 
