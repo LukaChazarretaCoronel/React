@@ -15,6 +15,6 @@ FlashcardQuiz es una aplicación educativa desarrollada en React. Permite a los 
 
 - Aquí tienes una vista previa de la aplicación:
 
-![Vista previa de la aplicación](React/React-Flashcards-Quiz/screenshots/page.png)
-![Otra vista](React/React-Flashcards-Quiz/screenshots/page2.png)
-![Otra vista](React/React-Flashcards-Quiz/screenshots/page3.png)
+![Vista previa de la aplicación](screenshots/page.png)
+![Otra vista](screenshots/page2.png)
+![Otra vista](screenshots/page3.png)
